@@ -56,6 +56,12 @@ A lightweight real-time notification server powered by PostgreSQL `LISTEN/NOTIFY
 ### [postgres-rate-limiter](https://github.com/narek-keshishyan/postgres-rate-limiter)
 A PostgreSQL-backed rate limiter for Node.js APIs. Implements sliding window and token bucket strategies at the database level, suitable for multi-instance deployments.
 
+### [postgres-realtime-dashboard](https://github.com/narek-keshishyan/postgres-realtime-dashboard)
+A modern real-time dashboard built with React, TypeScript, and Zustand that connects to a backend WebSocket server and displays live database events. Features auto-reconnect, event filtering, live stats, and a clean dark UI.
+
+### [api-admin-dashboard](https://github.com/narek-keshishyan/api-admin-dashboard)
+A modern admin dashboard built with React, TypeScript, and Vite for managing backend services. Provides system metrics, job management with status filtering and retry, user administration, and rate-limit visualization — powered by React Query for real-time data freshness.
+
 ### [postgres-jwt-auth-service](https://github.com/narek-keshishyan/postgres-jwt-auth-service)
 A self-contained authentication service using PostgreSQL and JWT. Covers token issuance, refresh, revocation, and role-based access control — designed to be embedded into larger backend platforms.
 
