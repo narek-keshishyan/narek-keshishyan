@@ -78,4 +78,4 @@ A self-contained authentication service using PostgreSQL and JWT. Covers token i
 
 - **GitHub:** [github.com/narek-keshishyan](https://github.com/narek-keshishyan)
 - **LinkedIn:** [linkedin.com/in/narek-keshishyan](https://linkedin.com/in/narek-keshishyan)
-- **Email:** narek.keshishyan@gmail.com
+- **Email:** keshishyan01@gmail.com
